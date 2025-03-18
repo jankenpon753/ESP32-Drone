@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Except the src folder
+!src/
+!src/**
+
+# Except this .gitignore file
+!.gitignore
+
+# Except .ini files
+!platformio.ini
+
+.DS_Store
